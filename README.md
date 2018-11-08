@@ -1,6 +1,13 @@
-# dsnd-distributions package
+# Example Python Package
 
-Summary of the package
+This is a working Python Package that can be installed either locally
+or via pip from the pypi repository. 
+
+The package contains classes for a normal and a binary probabiity distribution.
+
+# Getting Started
+
+
 
 # Files
 
